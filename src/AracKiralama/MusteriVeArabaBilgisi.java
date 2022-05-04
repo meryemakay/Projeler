@@ -15,6 +15,8 @@ public static final String B = "\u001B[34m";
  */
 
 
+
+
         static Scanner scan=new Scanner(System.in);
         static int toplamGun;
 
